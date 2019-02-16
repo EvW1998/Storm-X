@@ -1,0 +1,5 @@
+newmtl PartMaterialLow(Clone)
+Kd 1 1 1
+map_Kd texture.BushPlane_export.png
+illum 2
+
